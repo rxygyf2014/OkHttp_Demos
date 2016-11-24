@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\pre-dexed\debug\okhttp-3.2.0-e97c4d684058659f4c78fd063d89ce0d8b400297.jar" />
+    </item>
+    <item
+        jar="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\pre-dexed\debug\classes-6e701f2d09267bdebc5a2b22662ec0b274d95ac0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\pre-dexed\debug\okio-1.6.0-c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        jar="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\exploded-aar\com.lzy.widget\view-core\0.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e7a3524803c85661f1197509b3ec9caff4816d9">
+        <dex dex="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\pre-dexed\debug\classes-601d6dd9b476680efa7ce9b5d7e115f797098450.jar" />
+    </item>
+    <item
+        jar="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\exploded-aar\com.github.chrisbanes.photoview\library\1.2.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\pre-dexed\debug\classes-a1d1f0d2b51b03341e63b5a848c42ba46787840c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\pre-dexed\debug\butterknife-7.0.1-fc861cbde294a7e4a9efd57936d766cb077b60e2.jar" />
+    </item>
+    <item
+        jar="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\exploded-aar\com.lzy.widget\imagepicker\0.2.6\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e44cb43e88dee29ad3c469a006a129a3be2fc3bc">
+        <dex dex="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\pre-dexed\debug\classes-d22b8f628f3de152c7c5ebca7da40bc730843d0a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\pre-dexed\debug\glide-3.7.0-1f3ddf859a86296da03fddcf50d19f29d652df81.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-android\4.48\afa06f539a4026c10b247386312aa67404b80a16\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\pre-dexed\debug\ormlite-android-4.48-f36ef3b839478551d009ded9878c754102a43305.jar" />
+    </item>
+    <item
+        jar="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\pre-dexed\debug\classes-3ffa95d0d29557ed4afa5e90e73d712277529987.jar" />
+    </item>
+    <item
+        jar="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-c22c99a0dee486006db95a10781c36ee400bc020.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\pre-dexed\debug\gson-2.5-d1775ad48bbb63d88951f4da76a944051360b30e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-core\4.48\e579bd2905d0399af5029aaaf9817d5fa0ca88a5\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\pre-dexed\debug\ormlite-core-4.48-0c1f5132b5b67b94438fe9ad50aa92bd0ecc9641.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-8c521c6524175742c6b2eb5169db00cdc45cd4f0.jar" />
+    </item>
+    <item
+        jar="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\exploded-aar\Atguigu_Code\okhttputils_library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d750096be8ec952ab76dfd3e387a8865427e4b93">
+        <dex dex="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\pre-dexed\debug\classes-9ee4cfda8983dd97df5c17ee59ce3759f03eccbf.jar" />
+    </item>
+    <item
+        jar="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\exploded-aar\Atguigu_Code\okhttpserver\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="75bbdef66f5eaf16c7485cf825e712589f527d8e">
+        <dex dex="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\pre-dexed\debug\classes-a8c4c3fb058728c87a68e10a96de0b8e71ee8c06.jar" />
+    </item>
+    <item
+        jar="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\baoliu_project\Atguigu_Code\OkHttpUtils-master\build\intermediates\pre-dexed\debug\classes-0b0b64a457c326c7bf34003419c8f29f6dc9a1e0.jar" />
+    </item>
+
+</items>
