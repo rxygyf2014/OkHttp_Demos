@@ -1,0 +1,7 @@
+# OkHttp_Demos
+对okhttp的使用
+
+这个项目中弘扬demo为sample-okhttp依赖的封装库为okhttputils，支持图片，文件的上传，下载
+
+另外一个大神demo为OkHttpUtils-master封装的依赖库为okhttputils_library,okhttpserver，支持多文件的上传下载，有对应的图片下载的demo使用glide等框架
+自己使用弘扬的okhttputils做的demo例子，app，练习使用弘扬的框架
